@@ -50,7 +50,7 @@ setup(
         "Topic :: Utilities",
         "Typing :: Typed",
     ],
-    install_requires=["aiohttp", "pydantic"],
+    install_requires=["aiohttp"],
     python_requires=">=3.8",
     project_urls={"Changelog": "https://github.com/vertyco/upchatpy/blob/main/CHANGELOG.md"},
 )
